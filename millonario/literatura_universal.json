@@ -1,0 +1,643 @@
+{
+  "tema": "Literatura universal",
+  "preguntas": [
+    {
+      "question": "¿Cuál es el autor de la Ilíada y la Odisea?",
+      "options": {
+        "A": "Homero",
+        "B": "Hesíodo",
+        "C": "Sófocles",
+        "D": "Eurípides"
+      },
+      "correct": "A",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué género literario caracteriza principalmente a las obras de Shakespeare?",
+      "options": {
+        "A": "Épico",
+        "B": "Lírico",
+        "C": "Dramático",
+        "D": "Didáctico"
+      },
+      "correct": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál de estas obras pertenece a Miguel de Cervantes?",
+      "options": {
+        "A": "La vida es sueño",
+        "B": "Don Quijote de la Mancha",
+        "C": "El lazarillo de Tormes",
+        "D": "La Celestina"
+      },
+      "correct": "B",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué movimiento literario se desarrolló principalmente en el siglo XVIII?",
+      "options": {
+        "A": "Romanticismo",
+        "B": "Barroco",
+        "C": "Neoclasicismo",
+        "D": "Realismo"
+      },
+      "correct": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el autor de Romeo y Julieta?",
+      "options": {
+        "A": "Christopher Marlowe",
+        "B": "William Shakespeare",
+        "C": "Ben Jonson",
+        "D": "John Webster"
+      },
+      "correct": "B",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué obra inicia con el verso 'En un lugar de la Mancha, de cuyo nombre no quiero acordarme'?",
+      "options": {
+        "A": "El Quijote",
+        "B": "La Galatea",
+        "C": "Las novelas ejemplares",
+        "D": "Los trabajos de Persiles y Sigismunda"
+      },
+      "correct": "A",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál de estos autores escribió Los miserables?",
+      "options": {
+        "A": "Gustave Flaubert",
+        "B": "Émile Zola",
+        "C": "Victor Hugo",
+        "D": "Honoré de Balzac"
+      },
+      "correct": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué tipo de composición poética es un soneto?",
+      "options": {
+        "A": "Catorce versos distribuidos en dos cuartetos y dos tercetos",
+        "B": "Ocho versos octosílabos",
+        "C": "Doce versos alejandrinos",
+        "D": "Diez versos endecasílabos"
+      },
+      "correct": "A",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el autor de La divina comedia?",
+      "options": {
+        "A": "Francesco Petrarca",
+        "B": "Giovanni Boccaccio",
+        "C": "Dante Alighieri",
+        "D": "Ludovico Ariosto"
+      },
+      "correct": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué característica define principalmente al Romanticismo?",
+      "options": {
+        "A": "La razón y el equilibrio",
+        "B": "El sentimiento y la pasión",
+        "C": "La imitación de los clásicos",
+        "D": "La objetividad descriptiva"
+      },
+      "correct": "B",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál de estas obras pertenece a Molière?",
+      "options": {
+        "A": "El avaro",
+        "B": "Fedra",
+        "C": "El Cid",
+        "D": "Británico"
+      },
+      "correct": "A",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué movimiento literario busca representar la realidad tal como es?",
+      "options": {
+        "A": "Simbolismo",
+        "B": "Realismo",
+        "C": "Modernismo",
+        "D": "Parnasianismo"
+      },
+      "correct": "B",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué característica principal distingue a la novela picaresca?",
+      "options": {
+        "A": "Protagonista noble y heroico",
+        "B": "Narración en tercera persona omnisciente",
+        "C": "Protagonista de origen humilde que relata sus aventuras",
+        "D": "Temática amorosa y cortesana"
+      },
+      "correct": "C",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el Barroco es correcta?",
+      "options": {
+        "A": "Prefiere la sencillez expresiva",
+        "B": "Busca la complejidad formal y el artificio",
+        "C": "Rechaza completamente los temas religiosos",
+        "D": "Se centra exclusivamente en la mitología clásica"
+      },
+      "correct": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué recurso literario predomina en la poesía de Luis de Góngora?",
+      "options": {
+        "A": "La alegoría",
+        "B": "La sinestesia",
+        "C": "El cultismo y la metáfora compleja",
+        "D": "La personificación"
+      },
+      "correct": "C",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la estructura narrativa característica de El Decamerón de Boccaccio?",
+      "options": {
+        "A": "Relato lineal cronológico",
+        "B": "Cien novelas organizadas en marcos narrativos",
+        "C": "Autobiografía ficcionizada",
+        "D": "Epistolario amoroso"
+      },
+      "correct": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué diferencia principal existe entre los conceptos de 'honor' en el teatro del Siglo de Oro español?",
+      "options": {
+        "A": "No hay diferencias significativas",
+        "B": "El honor masculino se basa en la valentía, el femenino en la castidad",
+        "C": "Solo importa el honor económico",
+        "D": "El honor se limita a la nobleza de sangre"
+      },
+      "correct": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál de estas características NO pertenece al Neoclasicismo?",
+      "options": {
+        "A": "Respeto por las unidades dramáticas",
+        "B": "Finalidad didáctica",
+        "C": "Expresión de sentimientos personales",
+        "D": "Imitación de modelos grecolatinos"
+      },
+      "correct": "C",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué técnica narrativa emplea principalmente Goethe en Las desventuras del joven Werther?",
+      "options": {
+        "A": "Narración omnisciente",
+        "B": "Flujo de conciencia",
+        "C": "Epistolar",
+        "D": "Narración multiple"
+      },
+      "correct": "C",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la temática principal de las tragedias de Jean Racine?",
+      "options": {
+        "A": "La crítica social",
+        "B": "Las pasiones amorosas y el destino",
+        "C": "La comedia de costumbres",
+        "D": "La sátira política"
+      },
+      "correct": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué movimiento literario representa Gustavo Adolfo Bécquer en España?",
+      "options": {
+        "A": "Romanticismo tardío",
+        "B": "Realismo temprano",
+        "C": "Neoclasicismo",
+        "D": "Modernismo precursor"
+      },
+      "correct": "A",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál de las siguientes características define mejor el Sturm und Drang alemán?",
+      "options": {
+        "A": "Racionalidad extrema",
+        "B": "Subjetivismo y expresión de emociones intensas",
+        "C": "Imitación de modelos franceses",
+        "D": "Temática exclusivamente religiosa"
+      },
+      "correct": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué recurso estilístico caracteriza principalmente la poesía de John Donne?",
+      "options": {
+        "A": "La metáfora física o conceit",
+        "B": "La rima consonante perfecta",
+        "C": "La métrica clásica",
+        "D": "La alegoría medieval"
+      },
+      "correct": "A",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la principal innovación narrativa de Laurence Sterne en Tristram Shandy?",
+      "options": {
+        "A": "El uso del monólogo interior",
+        "B": "La ruptura de la linealidad temporal y narrativa",
+        "C": "La narración en segunda persona",
+        "D": "El realismo social"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Qué diferencia fundamental existe entre el conceptismo de Quevedo y el culteranismo de Góngora?",
+      "options": {
+        "A": "El conceptismo se centra en el ingenio verbal, el culteranismo en la belleza formal",
+        "B": "No hay diferencias relevantes",
+        "C": "El conceptismo es religioso, el culteranismo profano",
+        "D": "El conceptismo usa verso, el culteranismo prosa"
+      },
+      "correct": "A",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la función del coro en la tragedia griega clásica según Aristóteles?",
+      "options": {
+        "A": "Interrumpir la acción principal",
+        "B": "Representar la voz del pueblo y comentar la acción",
+        "C": "Proporcionar alivio cómico",
+        "D": "Narrar acontecimientos pasados"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Qué técnica compositiva emplea Montaigne en sus Ensayos que influirá en la literatura posterior?",
+      "options": {
+        "A": "La estructura simétrica",
+        "B": "La digresión y la reflexión personal",
+        "C": "La objetividad científica",
+        "D": "La narración cronológica"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre el teatro isabelino es falsa?",
+      "options": {
+        "A": "Mezclaba elementos cómicos y trágicos",
+        "B": "Respetaba estrictamente las unidades aristotélicas",
+        "C": "Se representaba en teatros al aire libre",
+        "D": "Los papeles femeninos los interpretaban hombres"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Qué característica formal distingue a las Soledades de Góngora de la poesía tradicional?",
+      "options": {
+        "A": "El uso de metros irregulares",
+        "B": "La complejidad sintáctica y léxica extrema",
+        "C": "La ausencia de rima",
+        "D": "La temática exclusivamente amorosa"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la principal aportación de Richardson a la técnica novelística del siglo XVIII?",
+      "options": {
+        "A": "La novela histórica",
+        "B": "El análisis psicológico mediante la técnica epistolar",
+        "C": "La novela de aventuras",
+        "D": "El realismo costumbrista"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Qué función cumple el concepto de catarsis en la teoría aristotélica de la tragedia?",
+      "options": {
+        "A": "Provocar risa en el espectador",
+        "B": "Purificar las pasiones mediante la piedad y el terror",
+        "C": "Enseñar moral directamente",
+        "D": "Entretener sin finalidad específica"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la característica métrica principal del verso alejandrino francés clásico?",
+      "options": {
+        "A": "Doce sílabas con cesura en la sexta",
+        "B": "Catorce sílabas con rima consonante",
+        "C": "Diez sílabas con acento en la cuarta",
+        "D": "Ocho sílabas con rima asonante"
+      },
+      "correct": "A",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Qué aspecto formal caracteriza específicamente a las églogas de Garcilaso de la Vega?",
+      "options": {
+        "A": "El uso de la octava real",
+        "B": "La silva de endecasílabos y heptasílabos",
+        "C": "El soneto petrarquista",
+        "D": "La lira"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre el amor cortés medieval y el amor petrarquista?",
+      "options": {
+        "A": "El amor cortés es más espiritual",
+        "B": "El petrarquista introduce el análisis psicológico del sentimiento",
+        "C": "No hay diferencias significativas",
+        "D": "El cortés rechaza la belleza física"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Qué recurso estilístico predomina en las Metamorfosis de Ovidio?",
+      "options": {
+        "A": "La alegoría política",
+        "B": "La transformación como metáfora poética",
+        "C": "El realismo descriptivo",
+        "D": "La sátira social"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál de las siguientes características NO es propia del manierismo literario del siglo XVI?",
+      "options": {
+        "A": "La búsqueda de la originalidad formal",
+        "B": "La imitación directa de los clásicos",
+        "C": "La complicación sintáctica",
+        "D": "El refinamiento estilístico extremo"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Qué función cumple el concepto de 'sprezzatura' en El cortesano de Castiglione?",
+      "options": {
+        "A": "La ostentación de la cultura",
+        "B": "La naturalidad estudiada que oculta el artificio",
+        "C": "La sinceridad absoluta",
+        "D": "La humildad extrema"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la principal innovación estructural de La princesa de Clèves de Madame de Lafayette?",
+      "options": {
+        "A": "La técnica del flujo de conciencia",
+        "B": "El análisis psicológico de la pasión amorosa",
+        "C": "La narración múltiple",
+        "D": "El uso del monólogo interior"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Qué característica formal distingue a los Lais de Marie de France en la literatura medieval?",
+      "options": {
+        "A": "El uso de la prosa",
+        "B": "La narrativa breve en octosílabos con materia bretona",
+        "C": "La épica heroica",
+        "D": "La lírica trovadoresca"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la función específica del concepto de 'decorum' en la preceptiva neoclásica?",
+      "options": {
+        "A": "La separación estricta de géneros",
+        "B": "La adecuación entre estilo, tema y personajes",
+        "C": "La imitación literal de los antiguos",
+        "D": "La finalidad exclusivamente moral"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Qué técnica narrativa emplea Diderot en Jacques el fatalista que anticipa la novela moderna?",
+      "options": {
+        "A": "La metaficción y la reflexión sobre el acto narrativo",
+        "B": "El realismo social",
+        "C": "La técnica epistolar",
+        "D": "El monólogo interior"
+      },
+      "correct": "A",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la característica principal del 'stil novo' de Dante y sus contemporáneos?",
+      "options": {
+        "A": "La crítica social directa",
+        "B": "La espiritualización del amor mediante alegorías filosóficas",
+        "C": "El realismo descriptivo",
+        "D": "La imitación provenzal"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Qué diferencia fundamental existe entre la técnica narrativa de Fielding y la de Richardson?",
+      "options": {
+        "A": "Fielding usa narración omnisciente, Richardson la técnica epistolar",
+        "B": "No hay diferencias técnicas relevantes",
+        "C": "Fielding prefiere la primera persona",
+        "D": "Richardson usa exclusivamente el diálogo"
+      },
+      "correct": "A",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la función del concepto de 'imitation' en la teoría literaria del Renacimiento?",
+      "options": {
+        "A": "La copia literal de los textos antiguos",
+        "B": "La emulación creativa que supera los modelos",
+        "C": "La traducción fiel",
+        "D": "La parodia satírica"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Qué característica métrica específica presenta la canzone petrarquista?",
+      "options": {
+        "A": "Estrofas de extensión fija con esquema rimático invariable",
+        "B": "Estrofas de extensión variable con 'commiato' final",
+        "C": "Tercetos encadenados",
+        "D": "Octavas reales"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la principal aportación de Lope de Vega al teatro español según su Arte nuevo de hacer comedias?",
+      "options": {
+        "A": "El respeto absoluto a las unidades clásicas",
+        "B": "La ruptura consciente con las normas clásicas para crear un teatro nacional",
+        "C": "La imitación del teatro francés",
+        "D": "La separación de lo cómico y lo trágico"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Qué recurso técnico caracteriza específicamente la construcción dramática de Calderón de la Barca?",
+      "options": {
+        "A": "La improvisación argumenta",
+        "B": "La arquitectura simbólica y la construcción geométrica de la intriga",
+        "C": "El realismo social",
+        "D": "La imitación del teatro clásico"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la función específica del concepto de 'aemulatio' en la poética renacentista frente a la 'imitatio'?",
+      "options": {
+        "A": "Son conceptos idénticos",
+        "B": "La 'aemulatio' busca superar competitivamente el modelo imitado",
+        "C": "La 'aemulatio' rechaza cualquier modelo",
+        "D": "La 'aemulatio' se limita a la traducción"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Qué característica formal distingue específicamente a los 'Rerum vulgarium fragmenta' de Petrarca de los cancioneros medievales?",
+      "options": {
+        "A": "El uso exclusivo del soneto",
+        "B": "La arquitectura unitaria con desarrollo narrativo de la pasión amorosa",
+        "C": "La temática exclusivamente religiosa",
+        "D": "La métrica irregular"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre el concepto de 'wit' en la poesía metafísica inglesa y el 'ingenio' del conceptismo español?",
+      "options": {
+        "A": "El 'wit' busca la paradoja intelectual, el 'ingenio' la agudeza verbal",
+        "B": "Son conceptos equivalentes",
+        "C": "El 'wit' es más superficial",
+        "D": "El 'ingenio' rechaza la complejidad"
+      },
+      "correct": "A",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Qué función cumple el concepto de 'variatio' en la retórica barroca frente a la 'imitatio' renacentista?",
+      "options": {
+        "A": "La búsqueda de la novedad formal dentro de la tradición",
+        "B": "El rechazo total de los modelos",
+        "C": "La simplificación estilística",
+        "D": "La imitación literal"
+      },
+      "correct": "A",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la característica específica del 'roman à clef' en la literatura francesa del siglo XVII?",
+      "options": {
+        "A": "La novela epistolar",
+        "B": "La ficción que disfraza acontecimientos y personajes reales contemporáneos",
+        "C": "La novela histórica",
+        "D": "La autobiografía ficcionada"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Qué diferencia técnica fundamental existe entre la 'silva' española y la 'canzone' italiana en cuanto a estructura estrófica?",
+      "options": {
+        "A": "La silva mantiene esquemas rimáticos fijos, la canzone los varía",
+        "B": "La silva permite libertad en la distribución de rimas y metros, la canzone tiene estructura fija",
+        "C": "No hay diferencias estructurales",
+        "D": "La silva usa solo endecasílabos"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la función específica del concepto de 'galanterie' en la literatura francesa del Grand Siècle?",
+      "options": {
+        "A": "La cortesía social",
+        "B": "El refinamiento estilístico que equilibra naturalidad y artificio",
+        "C": "La temática amorosa",
+        "D": "La imitación de modelos"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Qué característica formal distingue la 'terza rima' dantesca de otros esquemas métricos narrativos?",
+      "options": {
+        "A": "El uso de versos alejandrinos",
+        "B": "Los tercetos encadenados en endecasílabos con rima ABA BCB CDC",
+        "C": "La rima asonante",
+        "D": "Los versos de arte menor"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la principal innovación de la 'nouvelle historique' de Madame de Lafayette respecto a la novela heroica anterior?",
+      "options": {
+        "A": "La extensión narrativa",
+        "B": "La verosimilitud psicológica y la concentración dramática",
+        "C": "La temática amorosa",
+        "D": "El final feliz"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Qué función cumple el concepto de 'bienséance' en la dramaturgia francesa clásica más allá del simple decoro moral?",
+      "options": {
+        "A": "La separación de géneros",
+        "B": "La coherencia interna de caracteres y situaciones según convenciones sociales",
+        "C": "La imitación de antiguos",
+        "D": "La finalidad didáctica"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la característica técnica específica del 'discours indirect libre' que aparece embrionariamente en algunas novelas del siglo XVIII?",
+      "options": {
+        "A": "El diálogo directo",
+        "B": "La fusión de la voz narrativa con la conciencia del personaje sin marcas tipográficas",
+        "C": "El monólogo interior",
+        "D": "La narración epistolar"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    }
+  ]
+}
