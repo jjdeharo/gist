@@ -1,0 +1,665 @@
+{
+  "tema": "Derivadas de funciones con nivel de bachillerato",
+  "preguntas": [
+    {
+      "question": "¿Cuál es la derivada de $f(x)=x^2$?",
+      "options": {
+        "A": "$x^2$",
+        "B": "$x$",
+        "C": "$\\dfrac{1}{x}$",
+        "D": "$2x$"
+      },
+      "correct": "D",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\sin x$?",
+      "options": {
+        "A": "$-\\cos x$",
+        "B": "$-\\sin x$",
+        "C": "$\\cos x$",
+        "D": "$\\sin x$"
+      },
+      "correct": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\cos x$?",
+      "options": {
+        "A": "$\\cos x$",
+        "B": "$\\tan x$",
+        "C": "$\\sin x$",
+        "D": "$-\\sin x$"
+      },
+      "correct": "D",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=e^x$?",
+      "options": {
+        "A": "$x\\,e^{x-1}$",
+        "B": "$e^{x}+1$",
+        "C": "$e^x$",
+        "D": "$\\ln x$"
+      },
+      "correct": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\ln x$?",
+      "options": {
+        "A": "$\\ln x$",
+        "B": "$x$",
+        "C": "$x\\,\\ln x$",
+        "D": "$\\dfrac{1}{x}$"
+      },
+      "correct": "D",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=3x^5$?",
+      "options": {
+        "A": "$5x^4$",
+        "B": "$15x^5$",
+        "C": "$3x^4$",
+        "D": "$15x^4$"
+      },
+      "correct": "D",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de una constante $c$?",
+      "options": {
+        "A": "$c$",
+        "B": "$1$",
+        "C": "$0$",
+        "D": "$x$"
+      },
+      "correct": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=x^3+x$?",
+      "options": {
+        "A": "$3x^2$",
+        "B": "$x$",
+        "C": "$3x^2+1$",
+        "D": "$x^2+1$"
+      },
+      "correct": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\sqrt{x}$?",
+      "options": {
+        "A": "$\\dfrac{1}{2\\sqrt{x}}$",
+        "B": "$\\sqrt{x}$",
+        "C": "$\\dfrac{1}{\\sqrt{x}}$",
+        "D": "$2\\sqrt{x}$"
+      },
+      "correct": "A",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\dfrac{1}{x}$?",
+      "options": {
+        "A": "$\\dfrac{1}{x^2}$",
+        "B": "$-\\dfrac{1}{x}$",
+        "C": "$-\\dfrac{1}{x^2}$",
+        "D": "$\\dfrac{1}{x}$"
+      },
+      "correct": "C",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=2x$?",
+      "options": {
+        "A": "$2x$",
+        "B": "$x$",
+        "C": "$1$",
+        "D": "$2$"
+      },
+      "correct": "D",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=x^4$?",
+      "options": {
+        "A": "$3x^4$",
+        "B": "$x^3$",
+        "C": "$4x^4$",
+        "D": "$4x^3$"
+      },
+      "correct": "D",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Sea $f(x)=x^3-6x$. ¿Cuál es el valor de $f'(2)$?",
+      "options": {
+        "A": "$12$",
+        "B": "$2$",
+        "C": "$6$",
+        "D": "$-6$"
+      },
+      "correct": "C",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=x^2\\,\\sin x$?",
+      "options": {
+        "A": "$x^2\\,\\cos x$",
+        "B": "$\\sin x + 2x$",
+        "C": "$2x\\,\\sin x$",
+        "D": "$2x\\,\\sin x + x^2\\,\\cos x$"
+      },
+      "correct": "D",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\dfrac{x^2}{x}$?",
+      "options": {
+        "A": "$1$",
+        "B": "$2$",
+        "C": "$2x$",
+        "D": "$x$"
+      },
+      "correct": "A",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\sin(3x)$?",
+      "options": {
+        "A": "$-3\\sin(3x)$",
+        "B": "$3\\cos(3x)$",
+        "C": "$3\\sin(3x)$",
+        "D": "$\\cos(3x)$"
+      },
+      "correct": "B",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=e^{2x}$?",
+      "options": {
+        "A": "$e^{2x}$",
+        "B": "$\\ln(e^{2x})$",
+        "C": "$2x\\,e^{2x}$",
+        "D": "$2e^{2x}$"
+      },
+      "correct": "D",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\ln(3x)$?",
+      "options": {
+        "A": "$\\dfrac{3}{x}$",
+        "B": "$\\ln(3x)$",
+        "C": "$\\dfrac{1}{x}$",
+        "D": "$\\dfrac{1}{3x}$"
+      },
+      "correct": "C",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=(\\cos x)^2$?",
+      "options": {
+        "A": "$\\cos^2 x$",
+        "B": "$-\\sin x$",
+        "C": "$2\\cos x\\,\\sin x$",
+        "D": "$-2\\cos x\\,\\sin x$"
+      },
+      "correct": "D",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\tan x$?",
+      "options": {
+        "A": "$\\sec^2 x$",
+        "B": "$\\sec x\\tan x$",
+        "C": "$\\csc^2 x$",
+        "D": "$\\tan^2 x$"
+      },
+      "correct": "A",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\arcsin x$?",
+      "options": {
+        "A": "$\\dfrac{1}{\\sqrt{1-x^2}}$",
+        "B": "$\\sqrt{1-x^2}$",
+        "C": "$\\arccos x$",
+        "D": "$\\dfrac{-1}{\\sqrt{1-x^2}}$"
+      },
+      "correct": "A",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\arccos x$?",
+      "options": {
+        "A": "$-\\dfrac{1}{\\sqrt{1-x^2}}$",
+        "B": "$\\arcsin x$",
+        "C": "$-\\sqrt{1-x^2}$",
+        "D": "$\\dfrac{1}{\\sqrt{1-x^2}}$"
+      },
+      "correct": "A",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\ln|x|$?",
+      "options": {
+        "A": "$\\dfrac{1}{|x|}$",
+        "B": "$\\dfrac{1}{2x}$",
+        "C": "$\\ln|x|$",
+        "D": "$\\dfrac{1}{x}$"
+      },
+      "correct": "D",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=x\\,e^x$?",
+      "options": {
+        "A": "$x\\,e^x$",
+        "B": "$(1+x)e^x + 1$",
+        "C": "$e^x + x\\,e^x$",
+        "D": "$e^x$"
+      },
+      "correct": "C",
+      "difficulty": "medium"
+    },
+    {
+      "question": "En la circunferencia $x^2+y^2=25$, ¿cuál es $\\dfrac{dy}{dx}$?",
+      "options": {
+        "A": "$\\dfrac{x}{y}$",
+        "B": "$-\\dfrac{x}{y}$",
+        "C": "$-\\dfrac{y}{x}$",
+        "D": "$\\dfrac{y}{x}$"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\sqrt{\\ln x}$?",
+      "options": {
+        "A": "$\\dfrac{1}{2\\sqrt{x}}$",
+        "B": "$\\dfrac{1}{\\sqrt{\\ln x}}$",
+        "C": "$\\dfrac{1}{2\\sqrt{\\ln x}\\,x}$",
+        "D": "$\\dfrac{1}{x\\ln x}$"
+      },
+      "correct": "C",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\ln(\\sin x)$?",
+      "options": {
+        "A": "$\\csc x$",
+        "B": "$\\sec x$",
+        "C": "$\\tan x$",
+        "D": "$\\cot x$"
+      },
+      "correct": "D",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\sec x$?",
+      "options": {
+        "A": "$\\tan x\\csc x$",
+        "B": "$\\sec x\\cot x$",
+        "C": "$\\sec x\\tan x$",
+        "D": "$\\sec x$"
+      },
+      "correct": "C",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\arcsin(x^2)$?",
+      "options": {
+        "A": "$\\dfrac{2x}{1-x^2}$",
+        "B": "$\\dfrac{2x}{\\sqrt{1-x^2}}$",
+        "C": "$\\dfrac{2x}{\\sqrt{1-x^4}}$",
+        "D": "$\\dfrac{1}{\\sqrt{1-x^4}}$"
+      },
+      "correct": "C",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=x^x$?",
+      "options": {
+        "A": "$x^x(\\ln x + 1)$",
+        "B": "$x^x\\ln x$",
+        "C": "$x^{x-1}$",
+        "D": "$\\ln(x^x)$"
+      },
+      "correct": "A",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=e^{x^2}$?",
+      "options": {
+        "A": "$x\\,e^{x^2}$",
+        "B": "$2x\\,e^{x^2}$",
+        "C": "$2e^{x^2}$",
+        "D": "$e^{x^2}$"
+      },
+      "correct": "B",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\tan(\\ln x)$?",
+      "options": {
+        "A": "$\\dfrac{\\sec^2(\\ln x)}{x}$",
+        "B": "$\\dfrac{1}{x^2}$",
+        "C": "$\\dfrac{\\tan(\\ln x)}{x}$",
+        "D": "$\\sec^2(\\ln x)$"
+      },
+      "correct": "A",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=(x^2+1)^3$?",
+      "options": {
+        "A": "$6x(x^2+1)^2$",
+        "B": "$3(x^2+1)^2$",
+        "C": "$6x(x^2+1)$",
+        "D": "$2x(x^2+1)^3$"
+      },
+      "correct": "A",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\cos^2(2x)$?",
+      "options": {
+        "A": "$-2\\cos(2x)\\,\\sin(2x)$",
+        "B": "$-\\sin(2x)$",
+        "C": "$-4\\cos(2x)\\,\\sin(2x)$",
+        "D": "$-4\\sin(2x)$"
+      },
+      "correct": "C",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\dfrac{1}{x^2}$?",
+      "options": {
+        "A": "$\\dfrac{2}{x^3}$",
+        "B": "$-\\dfrac{1}{x^2}$",
+        "C": "$-\\dfrac{2}{x^3}$",
+        "D": "$\\dfrac{2}{x^2}$"
+      },
+      "correct": "C",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\ln(x^2+1)$?",
+      "options": {
+        "A": "$\\dfrac{1}{x^2+1}$",
+        "B": "$\\dfrac{2}{x^2+1}$",
+        "C": "$\\dfrac{2x}{x^2}$",
+        "D": "$\\dfrac{2x}{x^2+1}$"
+      },
+      "correct": "D",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\dfrac{\\tan x}{x}$?",
+      "options": {
+        "A": "$\\dfrac{\\sec^2 x}{x}$",
+        "B": "$\\dfrac{x\\sec^2 x - \\tan x}{x^2}$",
+        "C": "$\\dfrac{\\tan x - x\\sec^2 x}{x^2}$",
+        "D": "$\\dfrac{\\sec^2 x - \\tan x}{x}$"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=x^2\\,e^{\\sin x}$?",
+      "options": {
+        "A": "$2x\\,e^{\\sin x} + x^2 e^{\\sin x}\\cos x$",
+        "B": "$x^2 e^{\\sin x}\\sin x$",
+        "C": "$2x\\,e^{\\sin x}$",
+        "D": "$e^{\\sin x}\\cos x$"
+      },
+      "correct": "A",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\ln x\\,\\ln(\\ln x)$?",
+      "options": {
+        "A": "$\\dfrac{\\ln x}{x}$",
+        "B": "$\\dfrac{\\ln(\\ln x)+1}{x}$",
+        "C": "$\\dfrac{1+\\ln x}{x}$",
+        "D": "$\\dfrac{1}{x\\ln x}$"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\arctan(\\sqrt{x})$?",
+      "options": {
+        "A": "$\\dfrac{1}{2x(1+x^2)}$",
+        "B": "$\\dfrac{1}{2\\sqrt{x}}$",
+        "C": "$\\dfrac{1}{1+x}$",
+        "D": "$\\dfrac{1}{2\\sqrt{x}(1+x)}$"
+      },
+      "correct": "D",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\ln(\\sin(\\ln x))$?",
+      "options": {
+        "A": "$\\dfrac{\\tan(\\ln x)}{x}$",
+        "B": "$\\cot(\\ln x)$",
+        "C": "$\\dfrac{\\cot(\\ln x)}{x}$",
+        "D": "$\\dfrac{\\csc^2(\\ln x)}{x}$"
+      },
+      "correct": "C",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\sqrt{\\tan x}$?",
+      "options": {
+        "A": "$\\dfrac{\\tan x}{\\sec^2 x}$",
+        "B": "$\\dfrac{1}{2\\sqrt{\\tan x}}$",
+        "C": "$\\dfrac{\\sec^2 x}{2\\sqrt{\\tan x}}$",
+        "D": "$\\dfrac{1}{\\sqrt{\\tan x}}$"
+      },
+      "correct": "C",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=x^{\\sin x}$?",
+      "options": {
+        "A": "$\\sin x\\,x^{\\sin x}$",
+        "B": "$x^{\\sin x}\\cos x$",
+        "C": "$x^{\\sin x}\\ln x$",
+        "D": "$x^{\\sin x}\\left(\\cos x\\,\\ln x + \\dfrac{\\sin x}{x}\\right)$"
+      },
+      "correct": "D",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\sin(x)^x$?",
+      "options": {
+        "A": "$\\cot x\\sin^{x}(x)$",
+        "B": "$\\sin^{x}(x)\\left(x\\cot x + \\ln(\\sin x)\\right)$",
+        "C": "$\\cos x\\sin^{x}(x)$",
+        "D": "$x\\sin^{x-1}(x)$"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\dfrac{\\arctan x}{x}$?",
+      "options": {
+        "A": "$\\dfrac{\\arctan x}{x^2}$",
+        "B": "$\\dfrac{\\frac{x}{1+x^2} - \\arctan x}{x^2}$",
+        "C": "$\\dfrac{1}{x(1+x^2)}$",
+        "D": "$\\dfrac{1}{1+x^2}$"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\dfrac{x}{\\ln x}$?",
+      "options": {
+        "A": "$\\dfrac{1}{\\ln x}$",
+        "B": "$\\dfrac{\\ln x - 1}{(\\ln x)^2}$",
+        "C": "$\\dfrac{\\ln x + 1}{(\\ln x)^2}$",
+        "D": "$\\dfrac{1}{(\\ln x)^2}$"
+      },
+      "correct": "B",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=e^{\\tan x}$?",
+      "options": {
+        "A": "$\\sec^2 x$",
+        "B": "$e^{\\tan x}$",
+        "C": "$\\tan x\\,e^{\\tan x}$",
+        "D": "$e^{\\tan x}\\,\\sec^2 x$"
+      },
+      "correct": "D",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\cos(x^2)\\,\\sin x$?",
+      "options": {
+        "A": "$-x\\,\\sin(x^2)\\,\\sin x$",
+        "B": "$-2x\\,\\sin x\\,\\cos(x^2)$",
+        "C": "$-2x\\,\\sin(x^2)\\,\\sin x + \\cos(x^2)\\,\\cos x$",
+        "D": "$\\cos(x^2)\\,\\sin x$"
+      },
+      "correct": "C",
+      "difficulty": "very-hard"
+    },
+    {
+      "question": "Sea $F(x)=\\displaystyle\\int_0^x \\sin(t^2)\\,dt$. ¿Cuál es $F'(x)$?",
+      "options": {
+        "A": "$\\sin^2(x^2)$",
+        "B": "$\\sin(x^2)$",
+        "C": "$\\cos(x^2)$",
+        "D": "$2x\\sin(x^2)$"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=x^{x^2}$?",
+      "options": {
+        "A": "$x^{x^2}\\ln x$",
+        "B": "$x^{x^2}\\left(2x\\right)$",
+        "C": "$x^{x^2}\\left(\\ln x + 1\\right)$",
+        "D": "$x^{x^2}\\left(2x\\,\\ln x + x\\right)$"
+      },
+      "correct": "D",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=e^{x}\\cos x$?",
+      "options": {
+        "A": "$e^{x}(\\cos x + \\sin x)$",
+        "B": "$e^{x}(\\sin x + \\cos x)$",
+        "C": "$\\cos x - \\sin x$",
+        "D": "$e^{x}(\\cos x - \\sin x)$"
+      },
+      "correct": "D",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\ln(\\tan x)$?",
+      "options": {
+        "A": "$\\sec^2 x\\tan x$",
+        "B": "$\\dfrac{1}{\\sin x\\cos x}$",
+        "C": "$\\dfrac{1}{\\tan x}$",
+        "D": "$\\dfrac{\\sec^2 x}{\\tan x}$"
+      },
+      "correct": "D",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\arctan(\\ln x)$?",
+      "options": {
+        "A": "$\\dfrac{1}{x(1+(\\ln x)^2)}$",
+        "B": "$\\dfrac{\\ln x}{1+(\\ln x)^2}$",
+        "C": "$\\dfrac{1}{1+(\\ln x)^2}$",
+        "D": "$\\dfrac{1}{x}$"
+      },
+      "correct": "A",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=x\\,\\ln(x^2+1)$?",
+      "options": {
+        "A": "$\\ln(x^2+1)+\\dfrac{2x^2}{x^2+1}$",
+        "B": "$\\dfrac{2x}{x^2+1}$",
+        "C": "$\\ln(x^2+1)+\\dfrac{2x}{x^2+1}$",
+        "D": "$\\ln(x^2+1)$"
+      },
+      "correct": "A",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\dfrac{\\sin x}{x}$?",
+      "options": {
+        "A": "$\\dfrac{\\sin x}{x^2}$",
+        "B": "$\\dfrac{x\\cos x - \\sin x}{x^2}$",
+        "C": "$\\dfrac{\\sin x - x\\cos x}{x^2}$",
+        "D": "$\\dfrac{\\cos x}{x}$"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\sin(x)\\,e^{\\cos x}$?",
+      "options": {
+        "A": "$e^{\\cos x}\\left(\\cos x - \\sin^2 x\\right)$",
+        "B": "$e^{\\cos x}\\left(\\cos x + \\sin^2 x\\right)$",
+        "C": "$e^{\\cos x}\\cos x$",
+        "D": "$e^{\\cos x}\\sin x$"
+      },
+      "correct": "A",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\dfrac{\\ln x}{x}$?",
+      "options": {
+        "A": "$\\dfrac{1 - \\ln x}{x^2}$",
+        "B": "$\\dfrac{1}{x^2}$",
+        "C": "$\\dfrac{\\ln x}{x^2}$",
+        "D": "$\\dfrac{\\ln x - 1}{x^2}$"
+      },
+      "correct": "A",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\tan(\\arcsin x)$?",
+      "options": {
+        "A": "$\\dfrac{1}{\\sqrt{1-x^2}}$",
+        "B": "$\\dfrac{x}{(1-x^2)^{3/2}}$",
+        "C": "$\\dfrac{1}{1-x^2}$",
+        "D": "$\\dfrac{1}{(1-x^2)^{3/2}}$"
+      },
+      "correct": "D",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=\\sqrt{\\ln(\\sqrt{x})}$?",
+      "options": {
+        "A": "$\\dfrac{1}{4\\sqrt{x}}$",
+        "B": "$\\dfrac{1}{4x\\ln(\\sqrt{x})}$",
+        "C": "$\\dfrac{1}{2x\\sqrt{\\ln x}}$",
+        "D": "$\\dfrac{1}{4x\\sqrt{\\ln(\\sqrt{x})}}$"
+      },
+      "correct": "D",
+      "difficulty": "expert"
+    },
+    {
+      "question": "¿Cuál es la derivada de $f(x)=x\\,e^{x^2}$?",
+      "options": {
+        "A": "$x\\,e^{x^2}$",
+        "B": "$e^{x^2}(1+2x^2)$",
+        "C": "$2x\\,e^{x^2}$",
+        "D": "$e^{x^2}(2x)$"
+      },
+      "correct": "B",
+      "difficulty": "expert"
+    }
+  ]
+}
