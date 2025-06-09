@@ -1,4 +1,9 @@
-## El mètode científic: fonaments i aplicació
+# El mètode científic: fonaments i aplicació
+
+## Introducció
+
+El mètode científic és l'eina fonamental que utilitza la ciència per entendre el món que ens envolta. No és només una manera de fer experiments al laboratori, sinó una forma de pensar rigorosa i sistemàtica que permet distingir entre el que és cert i el que són simples opinions o creences.
+Aquest document presenta el funcionament del mètode científic pas a pas, des de la formulació de preguntes fins a l'anàlisi de resultats i l'obtenció de conclusions fiables. També inclou els principis ètics de la investigació, la identificació d'errors comuns i els fonaments filosòfics com la falsació de Karl Popper i el principi de parsimònia.
 
 ## 1\. Definició del problema
 
