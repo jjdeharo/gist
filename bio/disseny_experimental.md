@@ -1,130 +1,265 @@
-## Les parts del disseny experimental
-1\. **Definició del Problema (pregunta)**:
+# El mètode científic: fonaments i aplicació
 
--   Descripció: Identifica una qüestió o problema específic que vulguis investigar.
--   Com fer-ho: Realitza una revisió bibliogràfica per comprendre el que ja s'ha investigat sobre el tema i identificar les llacunes existents.
--   Exemple: "La llum blava dels dispositius electrònics afecta la qualitat del son?"
+## 1. Definició del problema
 
-2\. **Hipòtesi**:
+- **Què és?**  
+  És el punt de partida de qualsevol investigació científica. Consisteix a formular una pregunta clara, concreta i investigable.
 
--   Descripció: Una suposició sobre la relació entre les variables.
--   Com fer-ho: Basant-te en la teoria existent i en les teves observacions preliminars, formula una afirmació testable.
--   Exemple: "L'exposició a la llum blava abans d'anar a dormir potser redueix la qualitat del son."
+- **Com es fa?**  
+  Cal observar la realitat i llegir fonts fiables per detectar fenòmens poc explicats o contradictoris. Això ajuda a identificar una pregunta rellevant que es pugui estudiar amb un experiment.
 
-3\. **Disseny**:
-
--   **Variable Dependent**:
-    -   Descripció: El que es mesura o observa com a resultat.
-    -   Com fer-ho: Identifica i decideix com mesuraràs aquesta variable.
-    -   Exemple: "Qualitat del son mesurada amb un monitor de son".
--   **Variable Independent**:
-    -   Descripció: La variable que es manipula.
-    -   Com fer-ho: Decideix com manipular aquesta variable de manera controlada.
-    -   Exemple: "Temps d'exposició a la llum blava".
--   **Variables Controlades**:
-    -   Descripció: Variables que es mantenen constants.
-    -   Com fer-ho: Identifica i manté constants durant l'experiment.
-    -   Exemple: "Hora d'anar a dormir, entorn de la habitació".
--   **Grup Control**:
-    -   Descripció: Grup que no rep la manipulació de la variable independent.
-    -   Com fer-ho: Selecciona un grup comparable al grup experimental.
-    -   Exemple: "Persones que no estan exposades a la llum blava abans de dormir".
--   **Rèpliques**:
-    -   Descripció: Repeticions de l'experiment.
-    -   Com fer-ho: Realitza l'experiment diverses vegades sota les mateixes condicions.
-    -   Exemple: "Realitzar l'experiment amb diferents grups de persones en diferents nits".
-
-4\. **Realització de l'Experiment**:
-
--   Descripció: Execució de l'experiment segons el disseny.
--   Com fer-ho: Segueix el protocol establert i recull les dades de manera sistemàtica.
--   Exemple: "Monitorar el son de dos grups de persones durant una setmana, un exposat a la llum blava i l'altre no".
-
-5\. **Anàlisi dels Resultats**:
-
--   Descripció: Interpretació de les dades recollides.
--   Com fer-ho: Utilitza mètodes estadístics per analitzar les dades.
--   Exemple: "Comparar les dades de qualitat del son dels dos grups utilitzant un test t".
-
-6\. **Conclusions**:
-
--   Descripció: Reflexions basades en l'anàlisi de les dades.
--   Com fer-ho: Determina si la hipòtesi ha estat confirmada o refutada.
--   Exemple: "L'exposició a la llum blava abans de dormir redueix significativament la qualitat del son".
-
-7\. **Comunicació dels Resultats**:
-
--   Descripció: Compartir les descobertes i conclusions.
--   Com fer-ho: Redacta un informe o article i considera presentar els resultats en conferències.
--   Exemple: "Publicar un article en una revista científica sobre els efectes de la llum blava en el son".
-
-___
-
-### Preguntes per a la reflexió i el pensament crític
-
-1.  Quins són els passos més crítics en la fase de definició del problema d'una investigació i com poden afectar la direcció de la teva recerca?
-2.  Com pots assegurar-te que la teva hipòtesi sigui realment testable i no contingui suposicions subjectives que puguin influir en els resultats de la teva investigació?
-3.  Quins serien els possibles efectes de no controlar adequadament les variables independents i les variables controlades en un experiment, i com poden aquests efectes afectar la validesa dels teus resultats?
-
-___
-
-## Falsació: Criteri de Demarcació en la Ciència
-
-La falsació és un concepte central en la filosofia de la ciència proposat per Karl Popper. Segons Popper, perquè una teoria o hipòtesi sigui considerada científica, ha de ser falsable, és a dir, ha de ser possible demostrar que és falsa.
-
-**Importància de la Falsació**:
-
--   La falsació és crucial per distingir entre el que és científic i el que no ho és. Si una afirmació no pot ser falsada, no pot ser considerada científica. Això no significa que no sigui veritat, sinó que no pertany a la ciència.
--   La falsació promou una actitud crítica i escèptica en la ciència, on les teories són vistes com a models provisionals del món que poden ser millorats o refutats a mesura que s'obté més informació.
-
-**Exemple: Els Fòssils del Cigne Negre**
-
-**Context**: Una de les prediccions de la teoria de l'evolució de Charles Darwin és que, a mesura que es retrocedeix en el temps geològic, es trobaran formes de vida més primitives. Això significa que no hauríem d'esperar trobar fòssils d'organismes complexos en capes geològiques molt antigues.
-
-**Hipòtesi**: Si la teoria de l'evolució és correcta, no trobarem fòssils d'organismes complexos, com ara ocells o mamífers, en capes geològiques que datin d'abans de l'aparició d'aquests grups en el registre fòssil.
-
-**Predicció**: No es trobaran fòssils d'ocells en capes geològiques anteriors a l'aparició coneguda dels primers ocells.
-
-**Resultats**: Fins ara, els fòssils d'ocells s'han trobat en capes geològiques que coincideixen amb el moment en què es creu que van aparèixer per primera vegada, segons altres evidències. No s'han trobat fòssils d'ocells en capes geològiques molt anteriors a aquesta data.
-
-**Conclusió**: La falta de fòssils d'ocells en capes geològiques molt antigues dona suport a la teoria de l'evolució de Darwin. Si s'hagués trobat un fòssil d'ocell en una capa geològica molt anterior a la seva aparició coneguda, això hauria falsat aquesta predicció específica de la teoria de l'evolució.
-
-Aquest exemple il·lustra com una hipòtesi pot ser posada a prova mitjançant la recerca de dades que la podrien falsar. En aquest cas, la teoria de l'evolució ha resistit aquesta prova específica, però la ciència està sempre oberta a noves dades i descobriments.
-
-___
-
-### Preguntes per a la reflexió i el pensament crític
-
-1.  Com creus que la idea de falsació de Karl Popper ha influït en la manera en què la ciència es desenvolupa i com es valoren les teories científiques?
-2.  Quines serien les conseqüències si la falsació no fos un requisit per a les teories científiques? Com afectaria això la nostra confiança en la validesa de les afirmacions científiques?
-3.  Pots pensar en altres exemples en la història de la ciència on la falsació ha estat utilitzada com a mètode per provar o refutar teories? Com ha afectat aquesta pràctica el progrés científic?
+- **Exemple**  
+  "La llum blava dels dispositius electrònics afecta la qualitat del son?"
 
 ---
 
-## Principi de Parsimònia
+## 2. Formulació d'una hipòtesi
 
-També conegut com **navalla d’Occam**, aquest principi diu que, entre diverses explicacions possibles per a un fenomen, la més senzilla (la que fa menys suposicions) és preferible, sempre que sigui coherent amb les dades observades.
+- **Què és?**  
+  És una possible resposta a la pregunta plantejada. Ha de ser clara, testable i falsable, és a dir, ha de ser possible demostrar si és falsa mitjançant dades.
 
-**Descripció**:
+- **Com es fa?**  
+  Basant-te en el coneixement previ, formula una afirmació que relacioni causa i efecte. Evita suposicions vagues o no mesurables.
 
-* El principi recomana evitar afegir elements innecessaris a una explicació científica.
-* No vol dir que la teoria més senzilla sigui sempre la certa, sinó que, si dues teories expliquen igual de bé els fets, escollim la més simple.
-
-**Com fer-ho**:
-
-* En el disseny d’hipòtesis i teories, selecciona les explicacions que requereixin menys suposicions addicionals.
-* Durant l’anàlisi, si dues hipòtesis donen resultats semblants, la més senzilla serà preferida com a punt de partida.
-
-**Exemple**:
-
-* Si un pacient té tos i febre, una possible explicació és una infecció respiratòria comuna. Una altra seria una malaltia rara tropical. El principi de parsimònia fa que primer es consideri l’explicació més comuna i senzilla.
+- **Exemple**  
+  "Exposar-se a llum blava abans de dormir redueix la qualitat del son."
 
 ---
 
-### Preguntes per a la reflexió i el pensament crític
+## 3. Disseny de l'experiment
 
-1. Per què pot ser útil aplicar el principi de parsimònia a l’hora de formular hipòtesis científiques?
-2. En quins casos creus que una explicació més complexa podria ser preferible malgrat el principi de parsimònia?
-3. Com pot ajudar aquest principi a evitar errors o biaixos en la interpretació de dades?
+Aquesta fase defineix com comprovaràs la hipòtesi. Inclou els següents elements:
 
+### Variable independent
+- **Què és?**  
+  És la variable que tu manipules. És la causa hipotètica del fenomen.
+- **Exemple**: el temps d'exposició a la llum blava.
 
+### Variable dependent
+- **Què és?**  
+  És el que mesures per veure si canvia a causa de la variable independent. 
+- **Exemple**: la qualitat del son mesurada amb un dispositiu o qüestionari validat.
+
+### Variables controlades
+- **Què són?**  
+  Són factors que poden influir en el resultat i que cal mantenir constants perquè no distorsionin els resultats.
+- **Exemple**: hora d'anar a dormir, silenci, temperatura de l'habitació.
+
+### Grup control
+- **Què és?**  
+  És un grup de participants que no rep la manipulació. Serveix com a comparació amb el grup experimental.
+- **Exemple**: persones que no miren pantalles abans de dormir.
+
+### Rèpliques
+- **Què són?**  
+  Repeticions independents de l'experiment, necessàries per assegurar que els resultats són consistents i no casuals.
+- **Exemple**: fer l'experiment amb diversos grups durant diferents dies.
+
+---
+
+## 4. Consideracions ètiques
+
+- **Què són?**  
+  Normes que protegeixen els participants i garanteixen que la investigació es fa de manera responsable i respectuosa.
+
+- **Elements clau:**
+  - **Consentiment informat**: Els participants han de saber què implica l'experiment i acceptar voluntàriament.
+  - **Confidencialitat**: Protegir la privacitat de les dades personals.
+  - **Minimització de riscos**: Evitar danys físics o psicològics.
+  - **Beneficència**: L'experiment ha de tenir un valor científic que justifiqui la participació.
+
+- **Exemple**  
+  En un estudi sobre estrès acadèmic, els estudiants han de saber que poden abandonar l'experiment en qualsevol moment i que les seves respostes seran anònimes.
+
+---
+
+## 5. Realització de l'experiment
+
+- **Què és?**  
+  És l'aplicació pràctica del disseny. Cal seguir el protocol de manera rigorosa i objectiva.
+
+- **Com es fa?**  
+  Assigna els participants a cada grup de forma aleatòria si és possible. Aplica el tractament només al grup experimental i recull les dades amb precisió.
+
+- **Exemple**  
+  Monitorar durant una setmana el son de dos grups: un exposat a pantalles i un altre no.
+
+### Tecnologies per a la recollida de dades
+
+- **Sensors digitals**: Dispositius que mesuren automàticament variables com temperatura, llum, moviment o freqüència cardíaca.
+- **Aplicacions mòbils**: Programes que permeten registrar dades en temps real, com estat d'ànim, hàbits alimentaris o temps d'exercici.
+- **Simulacions per ordinador**: Models virtuals que complementen els experiments físics i permeten provar moltes variables ràpidament.
+
+---
+
+## 6. Control de biaixos
+
+- **Què són?**  
+  Errors sistemàtics que poden afectar la validesa dels resultats. Cal identificar-los i minimitzar-los.
+
+### Tipus de biaixos
+
+- **Biaix de confirmació**: Tendència a buscar només dades que confirmin les nostres expectatives.
+  - **Com evitar-lo**: Registra totes les dades, fins i tot les que contradiguin la hipòtesi.
+
+- **Efecte placebo**: Els participants poden millorar només perquè creuen que reben un tractament.
+  - **Com controlar-lo**: Utilitza experiments doble cec, on ni participants ni investigadors saben qui rep el tractament real.
+
+- **Biaix de l'observador**: L'investigador pot interpretar les dades de manera subjectiva.
+  - **Com minimitzar-lo**: Utilitza mesures objectives i protocols estandarditzats.
+
+---
+
+## 7. Anàlisi dels resultats
+
+- **Què és?**  
+  Consisteix a processar i interpretar les dades recollides per veure si hi ha diferències significatives entre grups.
+
+- **Com es fa?**  
+  Es poden fer gràfics i aplicar proves estadístiques (per exemple, el test *t*) per comprovar si les diferències són degudes al tractament o poden ser casuals.
+
+- **Exemple**  
+  Comparar els índexs de qualitat del son entre els dos grups. Si les diferències són grans i estadísticament significatives, podem afirmar que hi ha un efecte real.
+
+### Correlació vs. causalitat
+
+- **Correlació**: Dues variables canvien de manera relacionada.
+- **Causalitat**: Una variable causa directament el canvi en l'altra.
+
+**Important**: Una correlació no implica causalitat. Pot haver-hi una tercera variable que influeixi en ambdues.
+
+**Exemple**: A l'estiu augmenten les vendes de gelats i també els casos d'ofegament. Això no vol dir que els gelats causin ofegaments; ambdós fenòmens tenen una causa comuna: la calor que fa que la gent vagi més a la platja.
+
+---
+
+## 8. Reproducibilitat
+
+- **Què és?**  
+  La capacitat d'obtenir resultats similars quan l'experiment es repeteix per altres investigadors en condicions similars.
+
+- **Per què és important?**  
+  Un resultat que no es pot reproduir pot ser degut al atzar o a errors en el disseny. La ciència es basa en resultats consistents i verificables.
+
+- **Com assegurar-la?**  
+  - Documenta tots els procediments detallament.
+  - Comparteix les dades i metodologia.
+  - Utilitza mostres prou grans.
+  - Repeteix l'experiment en diferents contextos.
+
+---
+
+## 9. Conclusions
+
+- **Què és?**  
+  És el moment d'interpretar els resultats en relació amb la hipòtesi inicial.
+
+- **Com es fa?**  
+  S'avalua si la hipòtesi queda confirmada o refutada. També cal reconèixer possibles errors, limitacions i vies de millora per a futurs estudis.
+
+- **Exemple**  
+  "Els resultats mostren que l'exposició a pantalles abans de dormir disminueix la qualitat del son en un 25%, confirmant la hipòtesi inicial."
+
+---
+
+## 10. Comunicació dels resultats
+
+- **Què és?**  
+  Comunicar el que s'ha descobert permet que altres investigadors coneguin, reprodueixin i validin l'estudi.
+
+- **Com es fa?**  
+  Es redacta un informe o article científic amb totes les fases del treball i es pot presentar a classe, en jornades científiques o publicacions.
+
+---
+
+## Casos pràctics per a estudiants
+
+### Cas 1: Música i concentració
+> **Situació**  
+> Volem saber si escoltar música mentre s'estudia afecta la capacitat de concentració.
+
+**Activitat per a l'alumne**  
+1. Formula una hipòtesi testable.
+2. Identifica les variables (independent, dependent i controlades).
+3. Dissenya un experiment amb grup control.
+4. Considera quins biaixos poden aparèixer i com evitar-los.
+
+### Cas 2: Xarxes socials i estat d'ànim
+> **Situació**  
+> Investigar si el temps passat a les xarxes socials influeix en l'estat d'ànim dels adolescents.
+
+**Activitat per a l'alumne**  
+1. Dissenya un mètode per mesurar l'estat d'ànim objectivament.
+2. Planifica com controlar variables com el tipus de contingut vist.
+3. Considera les implicacions ètiques de l'estudi.
+
+### Cas 3: Temps de reacció segons l'hora
+> **Situació**  
+> Volem saber si el temps de reacció varia segons l'hora del dia.
+
+**Activitat per a l'alumne**  
+1. Proposa una aplicació mòbil o tecnologia per mesurar el temps de reacció.
+2. Identifica factors que caldria controlar (cafè, son, àpats).
+3. Dissenya un protocol de repeticions per assegurar la fiabilitat.
+
+---
+
+# Fonaments filosòfics de la ciència
+
+## La falsació (Karl Popper)
+
+Segons Popper, una teoria només és científica si es pot demostrar que és falsa. Això vol dir que ha de fer prediccions que es poden posar a prova amb dades.
+
+### Exemple
+
+- **Hipòtesi**: Els ocells no existien fa més de 150 milions d'anys.
+- **Predicció**: No trobarem fòssils d'ocells en estrats geològics anteriors a aquest moment.
+- **Resultat**: No s'han trobat fòssils d'ocells més antics que això. La teoria de l'evolució es manté, però si aparegués un fòssil contradictori, caldria revisar-la.
+
+### Reflexió
+
+La ciència avança rebutjant o modificant teories quan les dades les contradiuen. La falsació obliga a mantenir una actitud crítica i oberta al canvi.
+
+---
+
+## El principi de parsimònia (navalla d'Occam)
+
+Aquest principi diu que, entre diverses explicacions igualment vàlides, cal triar la més senzilla.
+
+- **Objectiu**: Evitar suposicions innecessàries.
+- **Aplicació**: Quan dues teories expliquen els mateixos fets, tria la que requereix menys elements hipotètics.
+
+### Exemple
+
+Un pacient té tos i febre:
+- Explicació 1: Refredat comú.  
+- Explicació 2: Malaltia tropical rara.
+
+→ La primera és preferible si no hi ha indicis de la segona.
+
+---
+
+# Pensament crític: preguntes per discutir
+
+### Sobre el disseny experimental
+
+1. Per què és tan important definir bé el problema des del començament?  
+2. Com pots saber si una hipòtesi és testable o massa vaga?  
+3. Com pots garantir que els resultats de l'experiment no estan afectats per errors en el disseny?
+
+### Sobre biaixos i objectivitat
+
+4. Quins exemples de biaix de confirmació has observat en la vida quotidiana?
+5. Com pot afectar l'efecte placebo els resultats d'un experiment educatiu?
+6. Per què és important que altres investigadors puguin reproduir els nostres experiments?
+
+### Sobre la falsació i la parsimònia
+
+7. Com ha ajudat la falsació a fer avançar la ciència al llarg de la història?  
+8. En quin cas una teoria molt complexa pot ser preferible tot i la navalla d'Occam?  
+9. Què ens aporta combinar falsació i parsimònia en el mètode científic?
+
+### Sobre ètia i responsabilitat
+
+10. Quins límits ètics caldria establir en experiments amb estudiants?
+11. Com equilibres el valor científic d'un estudi amb els possibles riscos per als participants?
+12. Què faries si els resultats del teu experiment contradiuen les teves expectatives inicials?
