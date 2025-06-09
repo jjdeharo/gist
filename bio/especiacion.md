@@ -1,4 +1,4 @@
-**La especiación: proceso, tipos y mecanismos**
+#**La especiación: proceso, tipos y mecanismos**
 
 La **especiación** es el proceso evolutivo mediante el cual una población de organismos da lugar a una o más especies nuevas. Es un fenómeno central en la biología evolutiva, ya que explica la diversidad de la vida en la Tierra. La especiación ocurre cuando se rompe el flujo génico entre poblaciones de una misma especie, de modo que dejan de cruzarse entre sí y comienzan a evolucionar de manera independiente.
 
