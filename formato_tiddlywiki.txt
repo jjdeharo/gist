@@ -28,7 +28,7 @@ __subrayado__
 ,,subíndice,,
 
 Saltos de línea
-Dentro de listas usa <br> para no romper la numeración:
+Dentro de listas y tablas usa <br> para no romper la numeración:
 
 # Primer punto<br>explicación
 # Segundo punto
