@@ -34,6 +34,7 @@ Dentro de listas usa <br> para no romper la numeración:
 # Segundo punto
 
 Citas
+(Deben llevar una línea en blanco antes)
 
 > Cita de una sola línea
 
