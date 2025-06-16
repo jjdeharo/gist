@@ -1,0 +1,160 @@
+Guía de formato de texto en TiddlyWiki (para uso por IA)
+
+El fortmato TiddlyWiki se escribe siempre en una caja de texto puro.
+
+Reglas generales
+- Deja siempre una línea en blanco antes de cualquier lista, lista de definición, cita o tabla.
+- No añadas espacios antes del primer signo de formato ni después del último.
+- Un salto de línea simple no se muestra: separa párrafos con una línea en blanco.
+- Emplea el formato nativo siempre que exista; recurre a HTML solo cuando no haya otra opción.
+
+Títulos
+Deben llevar una línea en blanco antes:
+
+! Nivel 1
+!! Nivel 2
+!!! Nivel 3
+!!!! Nivel 4
+!!!!! Nivel 5
+!!!!!! Nivel 6
+
+Formato de texto
+''negrita''
+//cursiva//
+__subrayado__
+~~tachado~~
+`código en línea`
+^^superíndice^^
+,,subíndice,,
+
+Saltos de línea
+Dentro de listas usa <br> para no romper la numeración:
+
+# Primer punto<br>explicación
+# Segundo punto
+
+Citas
+
+> Cita de una sola línea
+
+<<<
+Bloque de cita
+con varias líneas
+<<< Firma opcional
+
+Línea horizontal
+(debe llevar una línea en blanco antes)
+
+---
+
+Enlaces y transclusiones
+[[Texto visible|Destino]]
+{{NombreDeTiddler}}
+
+Imágenes
+[img[Texto alternativo|URL]]
+[img[https://ejemplo.com/foto.jpg]]
+
+Listas
+(Deben llevar una línea en blanco antes)
+
+* Viñeta 1
+* Viñeta 2
+
+# Número 1
+# Número 2
+
+Listas anidadas
+(Deben llevar una línea en blanco antes)
+
+* Nivel 1
+** Nivel 2
+*** Nivel 3
+
+# Paso 1
+## Subpaso 1.1
+## Subpaso 1.2
+# Paso 2
+
+*# Mixto (viñeta → número)
+
+Listas de definición
+(Deben llevar una línea en blanco antes)
+
+; HTML
+: Lenguaje de marcado de la web
+
+; CSS: Hojas de estilo en cascada
+
+Tablas
+(Deben llevar una línea en blanco antes)
+
+|Col 1|Col 2|Col 3|
+|!Col 1|!Col 2|!Col 3|
+|Encabezado 1|Encabezado 2|h
+|Total|45|f
+|Título de la tabla|c
+|tc-center|k
+
+Pautas para tablas sin errores
+1. Línea en blanco antes de la primera fila.
+2. Nada de espacios antes de la primera barra vertical ni después de la última.
+3. Igual número de celdas en todas las filas; las excepciones son `>|`, `~` y `.`.
+4. `!Contenido` convierte la celda en cabecera.
+5. Tras la última barra:
+   • h → fila como cabecera 
+   • f → pie 
+   • c → título 
+   • k → clase.
+6. Horizontal: `|Texto|>|>|` extiende la celda.
+7. Vertical:
+
+|!Día|!Sesión 1|!Sesión 2|
+|Lunes|Matemáticas|Inglés|
+|Martes|~|.|
+|Miércoles|Historia|Física|
+
+   `~` une con la celda superior; `.` mantiene la cuadrícula vacía.
+8. Alineación vertical por celda: `^` (arriba), sin prefijo (centro), `,` (abajo).
+   |^Arriba|Centro|,Abajo|
+9. Alineación horizontal:
+   |Texto| izquierda | Texto | centro |  Texto| derecha.
+10. Clases: añade k al final y la clase tras la última barra:
+    |Columna|k|tc-center|
+
+Clases utilitarias
+
+Generales
+- tc-center                Centra un bloque en su contenedor
+- tc-max-width             Anchura máxima del contenedor
+- tc-max-width-80          Anchura al 80 %, pensada para usarse con tc-center
+- tc-edit-max-width        Anchura máxima de los TextWidgets
+- tc-first-link-nowrap     Los enlaces de la primera columna de una tabla no se parten de línea
+- tc-clearfix              Evita que elementos con tc-float-right sobresalgan del contenedor
+
+De tabla
+- tc-table-no-border       Quita los bordes de la tabla
+- tc-first-col-min-width   La primera columna ocupa el mínimo ancho posible
+- tc-table-wrapper         Envuelve la tabla en un div para evitar desbordamientos
+
+HTML (solo cuando sea necesario)
+- <br> para saltos dentro de listas o tablas.
+- <span style="color:red;">texto</span> para formato puntual.
+- <div class="tc-table">…</div> para estructuras complejas.
+
+Fórmulas matemáticas
+  Su usa katex:
+  Fórmula en línea: $$\frac 1 2$$
+
+Fórmula en bloque
+$$
+\frac 1 2
+$$
+
+Detalles de forma
+- Los títulos solo llevan la primera letra en mayúscula.
+- Comprueba que no queden espacios al final de las líneas, sobre todo en tablas.
+- Verifica el recuento de celdas tras usar `>|`, `~`, `.` o marcas de fila.
+- Antes de usar HTML, busca si existe una clase tc-* que haga lo mismo.
+
+Fin de la guía
