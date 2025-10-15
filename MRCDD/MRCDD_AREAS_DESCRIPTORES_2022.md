@@ -10,8 +10,7 @@ tecnologías digitales para mejorar la enseñanza y el aprendizaje, sino
 también para el adecuado desempeño de todas las tareas relacionadas con
 el ejercicio profesional.
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **1.1. Comunicación organizativa**
 
@@ -89,8 +88,7 @@ el ejercicio profesional.
             - Dispongo de un blog, premiado y/o reconocido con un sello de calidad, en el que analizo distintos aspectos de la comunicación organizativa en los centros educativos.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **1.2. Participación, colaboración y coordinación profesional**
 
@@ -170,8 +168,7 @@ el ejercicio profesional.
             - Dispongo de publicaciones (artículos, informes, libros, …) sobre el desarrollo del liderazgo distribuido en centros educativos enriquecido con el uso de tecnologías digitales.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **1.3. Práctica reflexiva**
 
@@ -245,8 +242,7 @@ el ejercicio profesional.
             - Diseño instrumentos (listas de control, escalas de valoración, rúbricas, etc.) para la recogida de datos a partir de una observación sistemática que apoye los procesos de reflexión sobre la práctica pedagógica digital en el contexto de una investigación.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **1.4. Desarrollo profesional digital continuo (DPC)**
 
@@ -314,8 +310,7 @@ el ejercicio profesional.
             - Llevo a cabo un proyecto de investigación sobre el impacto de la mejora del desempeño docente del profesorado que participa en comunidades profesionales virtuales.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **1.5. Protección de datos personales, privacidad, seguridad y bienestar digital**
 
@@ -411,8 +406,7 @@ el ejercicio profesional.
 
 El profesorado dispone actualmente de una gran diversidad de contenidos digitales que puede utilizar para la enseñanza. Una de las competencias clave que cualquier docente necesita desarrollar es poder gestionar esta variedad de contenidos para identificar de forma efectiva los que mejor se adapten a los objetivos de aprendizaje, a su alumnado y a su estilo de enseñanza, estructurarlos, relacionarlos entre sí y modificar, añadir y crear nuevos contenidos educativos digitales con los que apoyar su práctica docente.
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **2.1. Búsqueda y selección de contenidos digitales**
 
@@ -488,8 +482,7 @@ El profesorado dispone actualmente de una gran diversidad de contenidos digitale
             - Investigo las tecnologías emergentes vinculadas a la búsqueda y recuperación de información para su uso en la práctica educativa.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **2.2. Creación y modificación de contenidos digitales**
 
@@ -577,8 +570,7 @@ El profesorado dispone actualmente de una gran diversidad de contenidos digitale
             - He creado, en colaboración con mi equipo docente, los contenidos digitales del módulo formativo que impartimos incluyendo el uso de simuladores y laboratorios virtuales.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **2.3. Protección, gestión y compartición de contenidos digitales**
 
@@ -665,8 +657,7 @@ El profesorado dispone actualmente de una gran diversidad de contenidos digitale
 
 Las tecnologías digitales pueden fortalecer y mejorar las estrategias de enseñanza y aprendizaje de diferentes formas. Sin embargo, sea cual sea la estrategia o enfoque pedagógico que se elija, la competencia digital específica del docente radica en manejar eficazmente el uso de las tecnologías digitales en las diferentes fases y entornos del proceso de aprendizaje. La competencia fundamental de este ámbito, y tal vez de todo el marco, es la 3.1: Enseñanza. Esta competencia se refiere al diseño, planificación e implementación del uso de tecnologías digitales en cada una de las etapas del proceso de aprendizaje.
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **3.1. Enseñanza**
 
@@ -756,8 +747,7 @@ Las tecnologías digitales pueden fortalecer y mejorar las estrategias de enseñ
             - Llevo a cabo una investigación para determinar si existen diferencias significativas en el aprendizaje de los conceptos, cálculo y aplicación trigonométricos empleando un determinado software educativo.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **3.2. Orientación y apoyo en el aprendizaje**
 
@@ -844,8 +834,7 @@ Las tecnologías digitales pueden fortalecer y mejorar las estrategias de enseñ
             - Experimento con tecnologías emergentes, como, por ejemplo, Internet de las cosas, para desarrollar sistemas de monitorización de los aprendizajes evitando cualquier tipo de discriminación o sesgo y respetando los derechos digitales del alumnado.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **3.3. Aprendizaje entre iguales**
 
@@ -926,8 +915,7 @@ Las tecnologías digitales pueden fortalecer y mejorar las estrategias de enseñ
             - Analizo las posibles implicaciones del paradigma conectivista en el aprendizaje entre iguales dentro del contexto del aula, del centro e intercentros.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **3.4. Aprendizaje autorregulado**
 
@@ -1005,8 +993,7 @@ Las tecnologías digitales pueden fortalecer y mejorar las estrategias de enseñ
 
 La evaluación es un elemento imprescindible en el proceso de enseñanza aprendizaje y como tal, contribuye al desarrollo de la innovación educativa. Al integrar las tecnologías digitales en el aprendizaje y la enseñanza, debemos considerar, por un lado, cómo pueden mejorar las estrategias de evaluación existentes. Y, al mismo tiempo, también debemos analizar cómo pueden emplearse para crear o facilitar enfoques de evaluación innovadores. El profesorado digitalmente competente debe ser capaz de utilizar las tecnologías digitales en el ámbito de la evaluación con esos dos objetivos en mente, respetando siempre la privacidad y seguridad de los datos personales manejados en este proceso para garantizar los derechos digitales y la protección de datos personales.
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **4.1. Estrategias de evaluación**
 
@@ -1114,8 +1101,7 @@ La evaluación es un elemento imprescindible en el proceso de enseñanza aprendi
             - Colaboro con las Administraciones Educativas en el diseño y validación de pruebas estandarizadas de la evaluación de las competencias del alumnado.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **4.2. Analíticas y evidencias de aprendizaje**
 
@@ -1201,8 +1187,7 @@ La evaluación es un elemento imprescindible en el proceso de enseñanza aprendi
             - Colaboro con la A. E. para definir las variables relevantes en un estudio estadístico longitudinal para evaluar el impacto de las medidas adoptadas para reducir la repetición de curso en la continuidad de los estudios postobligatorios.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **4.3. Retroalimentación y toma de decisiones**
 
@@ -1301,8 +1286,7 @@ La evaluación es un elemento imprescindible en el proceso de enseñanza aprendi
 
 Entre los principios del sistema educativo, recogidos en el artículo 1 b) de la LOE modificado por la LOMLOE, se encuentra el de que la educación debe actuar “como un elemento compensador de las desigualdades personales, culturales, económicas y sociales, con especial atención a las que se deriven de cualquier tipo de discapacidad” y, en este sentido, las tecnologías digitales posibilitan el acceso a la información, la comunicación y el conocimiento, reduciendo o eliminando barreras físicas, sensoriales o socioeconómicas. En contrapunto, la "brecha digital", originada por el desigual acceso a los dispositivos, a la red y por la carencia de competencias digitales, supone un riesgo para el derecho a la educación en igualdad de condiciones del alumnado en situación de vulnerabilidad socioeducativa.
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **5.1. Accesibilidad e inclusión**
 
@@ -1384,8 +1368,7 @@ Entre los principios del sistema educativo, recogidos en el artículo 1 b) de la
             - Colaboro en el desarrollo de un sistema para la adaptación de la interfaz de usuario en el entorno virtual de aprendizaje en función de la competencia lectora del alumnado (lector, neo lector y no lector).
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **5.2. Atención a las diferencias personales en el aprendizaje**
 
@@ -1474,15 +1457,6 @@ Entre los principios del sistema educativo, recogidos en el artículo 1 b) de la
             - Investigo la validez de los sistemas de tutoría mediante diálogo sustentados en asistentes de IA.
             - Colaboro en el desarrollo de un entorno de accesibilidad “enriquecida” en el que el alumnado participa en actividades grupales junto con otros compañeros y compañeras a la vez que recibe atención personalizada.
             - Coordino una investigación para hacer un análisis comparativo del impacto en la superación de las dificultades de aprendizaje del alumnado para el que se han desarrollado planes personalizados de refuerzo apoyados en el uso de tecnologías digitales y para los que no, con el fin de determinar cuáles se han mostrado efectivos.
-
-
-> *Technology Integration Matrix (TIM). Proyecto del Florida Center for
-> Instructional Technology (FCIT), College of Education, University of
-> South Florida. Obra derivada, recuperado el 30/09/2021 de:
-> https://fcit.usf.edu/matrix/matrix/.*
->
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
 
 **5.3. Compromiso activo del alumnado con su propio aprendizaje**
 
@@ -1574,8 +1548,7 @@ Entre los principios del sistema educativo, recogidos en el artículo 1 b) de la
 
 Frente a las restantes competencias de este marco, en las que se trataba de cómo el profesorado debía emplear las tecnologías digitales para mejorar los procesos de enseñanza y aprendizaje, el área 6 detalla las competencias pedagógicas específicas que los docentes necesitan para que el alumnado adquiera y desarrolle su competencia digital para ejercer una ciudadanía activa, responsable y crítica.
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **6.1. Alfabetización mediática y en el tratamiento de la información y de los datos**
 
@@ -1679,8 +1652,7 @@ Frente a las restantes competencias de este marco, en las que se trataba de cóm
             - Participo en un proyecto de investigación sobre el impacto que en otros aprendizajes puede tener la mejora de la competencia digital del alumnado para buscar, seleccionar y organizar información relevante.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **6.2. Comunicación, colaboración y ciudadanía digital**
 
@@ -1781,8 +1753,7 @@ Frente a las restantes competencias de este marco, en las que se trataba de cóm
             - Diseño e implemento un experimento docente, basado en la evaluación del impacto que tiene, sobre el aprendizaje del alumnado, el trabajo del propio alumnado junto con un agente inteligente que desempeña la función de compañero de aprendizaje ( Learning Companion o LC).
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **6.3. Creación de contenidos**
 
@@ -1879,8 +1850,7 @@ Frente a las restantes competencias de este marco, en las que se trataba de cóm
             - Investigo la metodología “Aula del futuro” como estrategia pedagógica que permite la mejora del proceso general de creación de contenidos digitales de calidad por parte del alumnado.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **6.4. Uso responsable y bienestar digital**
 
@@ -1977,8 +1947,7 @@ Frente a las restantes competencias de este marco, en las que se trataba de cóm
             - Colaboro en el diseño e implementación de un programa autonómico para divulgar, entre el alumnado de edades comprendidas entre los 11 y los 14 años, las repercusiones que pueden derivarse del consentimiento en la cesión de datos personales en la consulta, acceso y registro en distintas plataformas, redes sociales y servicios.
 
 
-> Etapas y niveles de progresión, indicadores de logro, afirmaciones y
-> ejemplos sobre el desempeño
+
 
 **6.5. Resolución de problemas**
 
