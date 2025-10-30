@@ -1,0 +1,42 @@
+{
+  "categorias": [
+    {
+      "nombre": "Fórmulas básicas",
+      "id": "formulas-basicas",
+      "grid_template_columns": "repeat(auto-fit, minmax(180px, 1fr))",
+      "isCollapsed": false,
+      "elementos": [
+        {
+          "type": "button",
+          "latex": "\\bar{x} = \\frac{1}{n}\\sum_{i=1}^{n} x_i",
+          "display": "\\bar{x} = \\frac{1}{n}\\sum_{i=1}^{n} x_i",
+          "title": "Media aritmética muestral"
+        },
+        {
+          "type": "button",
+          "latex": "s^2 = \\frac{1}{n-1}\\sum_{i=1}^{n} (x_i-\\bar{x})^2",
+          "display": "s^2 = \\frac{1}{n-1}\\sum_{i=1}^{n} (x_i-\\bar{x})^2",
+          "title": "Varianza muestral"
+        },
+        {
+          "type": "button",
+          "latex": "s = \\sqrt{\\frac{1}{n-1}\\sum_{i=1}^{n} (x_i-\\bar{x})^2}",
+          "display": "s = \\sqrt{\\frac{1}{n-1}\\sum_{i=1}^{n} (x_i-\\bar{x})^2}",
+          "title": "Desviación estándar muestral"
+        },
+        {
+          "type": "button",
+          "latex": "P(A\\mid B) = \\frac{P(A\\cap B)}{P(B)}",
+          "display": "P(A\\mid B) = \\frac{P(A\\cap B)}{P(B)}",
+          "title": "Probabilidad condicional"
+        },
+        {
+          "type": "button",
+          "latex": "\\bar{x} \\pm z_{\\alpha/2}\\,\\frac{\\sigma}{\\sqrt{n}}",
+          "display": "\\bar{x} \\pm z_{\\alpha/2}\\,\\frac{\\sigma}{\\sqrt{n}}",
+          "title": "Intervalo de confianza de la media (z)"
+        }
+      ]
+    }
+  ]
+}
