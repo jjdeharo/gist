@@ -1,0 +1,36 @@
+{
+  "categorias": [
+    {
+      "nombre": "Ecuación de tercer grado",
+      "id": "ecuacion-tercer-grado",
+      "grid_template_columns": "repeat(auto-fit, minmax(180px, 1fr))",
+      "isCollapsed": false,
+      "elementos": [
+        {
+          "type": "button",
+          "latex": "ax^3+bx^2+cx+d=0",
+          "display": "ax^3+bx^2+cx+d=0",
+          "title": "Forma general de la ecuación cúbica"
+        },
+        {
+          "type": "button",
+          "latex": "x=\\sqrt[3]{-\\frac{q}{2}+\\sqrt{\\left(\\frac{q}{2}\\right)^2+\\left(\\frac{p}{3}\\right)^3}}+\\sqrt[3]{-\\frac{q}{2}-\\sqrt{\\left(\\frac{q}{2}\\right)^2+\\left(\\frac{p}{3}\\right)^3}}",
+          "display": "x=\\sqrt[3]{-\\frac{q}{2}+\\sqrt{\\left(\\frac{q}{2}\\right)^2+\\left(\\frac{p}{3}\\right)^3}}+\\sqrt[3]{-\\frac{q}{2}-\\sqrt{\\left(\\frac{q}{2}\\right)^2+\\left(\\frac{p}{3}\\right)^3}}",
+          "title": "Solución de la ecuación cúbica reducida"
+        },
+        {
+          "type": "button",
+          "latex": "p=\\frac{3ac-b^2}{3a^2}",
+          "display": "p=\\frac{3ac-b^2}{3a^2}",
+          "title": "Parámetro p de la ecuación reducida"
+        },
+        {
+          "type": "button",
+          "latex": "q=\\frac{2b^3-9abc+27a^2d}{27a^3}",
+          "display": "q=\\frac{2b^3-9abc+27a^2d}{27a^3}",
+          "title": "Parámetro q de la ecuación reducida"
+        }
+      ]
+    }
+  ]
+}
