@@ -1,19 +1,36 @@
-# Cómo preparar los datos y pedir a la IA un grafo de relaciones curriculares
+# Cómo crear un grafo de relaciones curriculares con IA
 
-## 1. Preparar los datos en Google Sheets
 
-Antes de pedir a la IA que genere el grafo, conviene organizar los contenidos en una hoja de cálculo de Google. La estructura mínima puede ser:
+La idea general es esta:
+
+1. Crear una hoja con los contenidos del currículum.
+2. Pedirle a la IA que genere las relaciones en una columna determinada, según los criterios que le des.
+3. Pedirle a la IA que genere un **grafo de fuerzas interactivo** a partir de esos datos.
+
+---
+
+## 1. Preparar la hoja de cálculo
+
+Crea una hoja de cálculo de Google con estas columnas:
 
 ```text
 id | nombre | materia | curso | bloque | resumen | relacionados | tipo_relacion
 ```
 
-### Significado de cada columna
+### Qué significa cada columna
 
-**id**  
-Código único para cada elemento. No debe tener espacios.
+| Columna | Función |
+|---|---|
+| `id` | Código único de cada contenido. No debe repetirse ni tener espacios. |
+| `nombre` | Nombre visible del contenido, saber básico, criterio o competencia. |
+| `materia` | Materia a la que pertenece. Puede servir para colorear los nodos. |
+| `curso` | Curso o año del currículum. |
+| `bloque` | Bloque temático o apartado curricular. |
+| `resumen` | Explicación breve del contenido. |
+| `relacionados` | IDs de otros contenidos conectados. |
+| `tipo_relacion` | Tipo de relación entre contenidos. |
 
-Ejemplos:
+Ejemplos de `id`:
 
 ```text
 bio_1_ecosistemas
@@ -21,113 +38,77 @@ mat_2_estadistica
 dig_1_hojas_calculo
 ```
 
-**nombre**  
-Nombre visible del contenido, saber básico, criterio o competencia.
-
-**materia**  
-Materia a la que pertenece. Puede usarse para colorear los nodos.
-
-**curso**  
-Curso o año del currículum. Permite ver progresiones.
-
-**bloque**  
-Bloque temático o ámbito dentro de la materia.
-
-**resumen**  
-Descripción breve del contenido.
-
-**relacionados**  
-IDs de otros elementos conectados, separados por punto y coma.
-
-Ejemplo:
-
-```text
-mat_2_estadistica;dig_1_hojas_calculo
-```
-
-**tipo_relacion**  
-Tipo de relación entre los contenidos. Puede servir para colorear o cambiar el estilo de las líneas.
-
-Ejemplos:
-
-```text
-prerrequisito
-aplicacion
-continuidad
-contenido_compartido
-relacion_interdisciplinar
-posible_relacion
-```
-
----
-
-## 2. Ejemplo de filas
+Ejemplo de fila:
 
 ```csv
 id,nombre,materia,curso,bloque,resumen,relacionados,tipo_relacion
 mat_1_estadistica,Estadística básica,Matemáticas,1,Datos,Lectura e interpretación de datos,bio_1_datos;geo_1_graficas,aplicacion
-bio_1_datos,Datos experimentales,Biología,1,Investigación,Registro e interpretación de resultados,mat_1_estadistica;dig_1_hojas,aplicacion
-dig_1_hojas,Hojas de cálculo,Digitalización,1,Tratamiento de datos,Organización y análisis de datos,bio_1_datos;mat_1_estadistica,contenido_compartido
-geo_1_graficas,Gráficas climáticas,Geografía,1,Clima,Representación de datos ambientales,mat_1_estadistica,aplicacion
 ```
 
 ---
 
-## 3. Exportar los datos
+## 2. Pedir a la IA que genere las relaciones
 
-En Google Sheets:
+Una vez tengas los contenidos en la hoja, puedes pedirle a la IA que complete las columnas `relacionados` y `tipo_relacion`.
 
-```text
-Archivo → Descargar → Valores separados por comas (.csv)
-```
+Lo importante es decirle **con qué criterios debe crear las relaciones**, porque eso definirá el grafo.
 
-Después se copia el contenido del CSV y se pega en la IA.
+Por ejemplo, puedes pedirle que busque relaciones de este tipo:
+
+| Tipo de relación | Significado |
+|---|---|
+| `prerrequisito` | Un contenido es necesario para comprender otro posterior. |
+| `aplicacion` | Un contenido se usa para trabajar o aplicar otro. |
+| `continuidad` | Un contenido continúa o amplía otro de otro curso. |
+| `contenido_compartido` | Dos materias trabajan un contenido parecido. |
+| `relacion_interdisciplinar` | Dos contenidos se pueden conectar en una actividad común. |
+| `posible_relacion` | Relación sugerida por la IA, pendiente de revisión docente. |
+
+### Prompt para generar las relaciones
+
+Puedes usar un prompt parecido a este:
+
+> Analiza los contenidos de esta hoja de cálculo y completa las columnas `relacionados` y `tipo_relacion`.
+>
+> En `relacionados`, escribe los `id` de los contenidos conectados, separados por punto y coma.
+>
+> En `tipo_relacion`, usa solo una de estas categorías:
+>
+> - `prerrequisito`
+> - `aplicacion`
+> - `continuidad`
+> - `contenido_compartido`
+> - `relacion_interdisciplinar`
+> - `posible_relacion`
+>
+> Crea relaciones solo cuando haya una justificación curricular clara. Evita relaciones demasiado generales. Prioriza conexiones entre materias, entre cursos y entre contenidos que puedan ayudar a detectar continuidad, solapamientos o huecos.
+>
+> No inventes contenidos nuevos. Usa únicamente los `id` existentes en la hoja.
+>
+> Si dudas, usa `posible_relacion`.
+
+Conviene revisar después las relaciones propuestas por la IA. La IA puede ayudar a detectar conexiones, pero el criterio docente es necesario para validar el resultado.
 
 ---
 
-## 4. Prompt para pedir el grafo
+## 3. Pedir a la IA que genere el grafo
 
-Puedes usar un prompt como este:
+Cuando la hoja ya tenga los contenidos y las relaciones, puedes pedirle a la IA que cree el mapa.
 
-> Crea una página web en un único archivo HTML, sin librerías externas, que genere un grafo de fuerzas interactivo en un lienzo Canvas a partir del siguiente CSV.
->
-> Condiciones:
->
-> - Cada fila del CSV es un nodo.
-> - La columna `id` identifica cada nodo.
-> - La columna `nombre` se muestra como etiqueta o al pasar el ratón.
-> - La columna `materia` define el color de los nodos.
-> - La columna `relacionados` define las conexiones entre nodos. Los IDs están separados por punto y coma.
-> - La columna `tipo_relacion` define el color o estilo de las líneas.
-> - Debe haber una leyenda para las materias y otra para los tipos de relación.
-> - Al hacer clic en un nodo, debe abrirse un panel lateral con:
->   - nombre
->   - materia
->   - curso
->   - bloque
->   - resumen
->   - nodos relacionados
->   - tipo de relación
-> - Debe permitir:
->   - zoom con la rueda del ratón
->   - arrastrar nodos
->   - mover el fondo
->   - resaltar los vecinos del nodo seleccionado
->   - buscar nodos por nombre
->   - filtrar por materia y por curso
-> - El resultado debe ser un solo archivo HTML completo, listo para guardar y abrir en el navegador.
->
-> Datos CSV:
->
-> ```csv
-> [pegar aquí el CSV]
-> ```
+Un **grafo de fuerzas interactivo en un lienzo Canvas** es este tipo de gráfico: simula partículas físicas que se atraen o se repelen. Los nodos relacionados tienden a acercarse y los poco conectados quedan más alejados.
+
+En este caso:
+
+- cada contenido será un **nodo**;
+- cada relación será una **línea**;
+- la materia puede definir el color del nodo;
+- el tipo de relación puede definir el color, grosor o estilo de la línea.
 
 ---
 
-## 5. Cómo se verá el tipo de relación
+## 4. Cómo se verá el tipo de relación
 
-El tipo de relación no aparece como un nodo, sino como una propiedad de la línea que une dos nodos.
+El tipo de relación se puede representar en el grafo mediante el estilo de las líneas.
 
 Por ejemplo:
 
@@ -140,7 +121,42 @@ Por ejemplo:
 | `relacion_interdisciplinar` | línea gris |
 | `posible_relacion` | línea discontinua |
 
-También se puede pedir que al hacer clic en una línea se muestre una explicación de la relación, aunque eso requiere una estructura de datos algo más detallada.
+También se puede pedir que al hacer clic sobre una línea aparezca una explicación de esa relación, aunque para eso sería mejor añadir una columna extra llamada `justificacion_relacion`.
+
+---
+
+## 5. Prompt para crear el grafo
+
+Puedes usar un prompt como este:
+
+> Crea una página web en un único archivo HTML, sin librerías externas, que genere un grafo de fuerzas interactivo en un lienzo Canvas a partir de los datos de esta hoja de cálculo o de este CSV.
+>
+> Condiciones:
+>
+> - Cada fila es un nodo.
+> - La columna `id` identifica cada nodo.
+> - La columna `nombre` se muestra como etiqueta o al pasar el ratón.
+> - La columna `materia` define el color de los nodos.
+> - La columna `relacionados` define las conexiones entre nodos. Los IDs están separados por punto y coma.
+> - La columna `tipo_relacion` define el color o estilo de las líneas.
+> - Debe haber una leyenda para las materias y otra para los tipos de relación.
+> - Al hacer clic en un nodo, debe mostrarse un panel lateral con:
+>   - nombre
+>   - materia
+>   - curso
+>   - bloque
+>   - resumen
+>   - nodos relacionados
+>   - tipo de relación
+> - Debe permitir:
+>   - zoom con la rueda del ratón;
+>   - arrastrar nodos;
+>   - mover el fondo;
+>   - resaltar los vecinos del nodo seleccionado;
+>   - buscar nodos por nombre;
+>   - filtrar por materia y por curso.
+>
+> El resultado debe ser un único archivo HTML completo, listo para guardar y abrir en el navegador.
 
 ---
 
@@ -152,17 +168,23 @@ No conviene pedir directamente:
 Hazme un knowledge graph.
 ```
 
-Es mejor darle a la IA:
+Es mejor trabajar por fases:
 
-1. Una tabla bien estructurada.
-2. Una definición clara de qué es cada columna.
-3. Una lista concreta de funciones que debe tener el mapa.
-4. Un CSV pequeño de prueba antes de usar todo el currículum.
+1. Primero estructurar los datos en Google Sheets.
+2. Después pedir a la IA que proponga las relaciones.
+3. Revisar las relaciones manualmente.
+4. Finalmente pedir el grafo interactivo.
 
-Lo normal es que no salga perfecto a la primera. Conviene trabajar por iteraciones:
+Si usas una versión de ChatGPT con conexión a Drive, como ChatGPT Empresas con el plugin de Drive, la IA puede trabajar directamente sobre la hoja de cálculo. Si no, también se puede hacer exportando la hoja como CSV y pegando los datos en el chat.
 
-1. Primero comprobar que lee bien el CSV.
-2. Después comprobar que dibuja los nodos.
-3. Luego revisar las conexiones.
-4. Después añadir colores, estilos y leyendas.
-5. Finalmente añadir filtros, buscador y panel lateral.
+---
+
+## 7. Exportar desde Google Sheets
+
+Si necesitas pasar los datos manualmente a la IA:
+
+```text
+Archivo → Descargar → Valores separados por comas (.csv)
+```
+
+Después abre el archivo CSV, copia el contenido y pégalo en el mensaje.
